@@ -20,11 +20,14 @@ It combines:
 ## Dashboards
 
 ### 1. Macro Regimes and Asset Performance (Main Dashboard)
+<img src="images/regime_performance_dashboard.png" width="100%">
+
 - Visualises the evolution of macro regimes over time
 - Compares asset performance across regimes
 - Includes crisis-focused analysis (e.g. Global Financial Crisis, COVID-19)
 
 ### 2. (Secondary Dashboard – e.g. Data Quality / Regime Breakdown)
+<img src="images/macro_regimes_and_asset_performance_dashboard.png" width="100%">
 - Provides supporting analysis on regime classification or data validation
 - Helps interpret how macro variables contribute to regime definitions
 
